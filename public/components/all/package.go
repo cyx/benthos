@@ -10,7 +10,6 @@ import (
 	_ "github.com/benthosdev/benthos/v4/internal/impl/avro"
 	_ "github.com/benthosdev/benthos/v4/internal/impl/awk"
 	_ "github.com/benthosdev/benthos/v4/internal/impl/aws"
-	_ "github.com/benthosdev/benthos/v4/internal/impl/cassandra"
 	_ "github.com/benthosdev/benthos/v4/internal/impl/confluent"
 	_ "github.com/benthosdev/benthos/v4/internal/impl/dgraph"
 	_ "github.com/benthosdev/benthos/v4/internal/impl/elasticsearch"
